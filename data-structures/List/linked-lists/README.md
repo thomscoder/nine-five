@@ -9,3 +9,5 @@ We can have different types of linked lists:
 - DOUBLY LINKED LIST: Similar to the single lists but the navigation can be either forward or backward
 
 - CIRCULAR LINKED LIST: The last element is linked to the first element of the list
+
+A linked list is slower than an array at searching or accessing a specific element, but faster at inserting or deleting an element

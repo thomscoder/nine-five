@@ -1,5 +1,8 @@
 # Binary Search
 
+This algorithm works by repeatedly splitting the array into two segments going from left to right and discard the half that does not contains <b>x</b>.
+Because the array is sorted it is easy to see which of each pair of segments the <b>x</b> is in.
+
 - Best case complexity: <b>O(1)</b>
 - Worst case complexity: <b>O(log n)</b>
 

@@ -1,5 +1,7 @@
 # Linear Search
 
+This algorithm works by iterating through the entire array until the <b>x<b> is found.
+
 - Best case complexity: <b>O(1)</b>
 - Worst case complexity: <b>O(n)</b>
 
